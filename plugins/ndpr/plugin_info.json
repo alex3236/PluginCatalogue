@@ -9,5 +9,5 @@
   "repository": "https://github.com/NDPReforged/NDPR-MCDR",
   "related_path": ".",
   "branch": "main",
-  "labels": ["management", "tool"]
+  "labels": ["management"]
 }
