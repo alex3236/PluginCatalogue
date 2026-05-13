@@ -1,0 +1,19 @@
+{
+    "id": "mc_tg_bridge",
+    "authors": [
+        {
+            "name": "Azusa_mikan",
+            "link": "https://github.com/Azusa-mikan"
+        }
+    ],
+    "repository": "https://github.com/Azusa-mikan/minecraft_telegram_bridge",
+    "branch": "main",
+    "labels": [
+        "information",
+        "management"
+    ],
+    "introduction": {
+        "en_us": "README.md",
+        "zh_cn": "README.md"
+    }
+}
