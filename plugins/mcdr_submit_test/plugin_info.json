@@ -1,0 +1,19 @@
+{
+    "id": "mcdr_submit_test",
+    "authors": [
+        {
+            "name": "Alex3236",
+            "link": "https://github.com/alex3236"
+        }
+    ],
+    "repository": "https://github.com/alex3236/mcdr-submit-test",
+    "branch": "master",
+    "related_path": ".",
+    "labels": [
+        "information",
+        "management"
+    ],
+    "introduction": {
+        "en_us": "README.md"
+    }
+}
